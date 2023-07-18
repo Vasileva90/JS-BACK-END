@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Pretty Kitty",
+    "img": "https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg",
+    "breed": "Bombay cat",
+    "description": "Dominant and aggressive to other cats. Will probably eat you in your sleep. Very cute tho.",
+    "id": 1
+  },
+  {
+    "name": "Doreen",
+    "img": "/data/images/98000b68d53ec8053432ea100.jpeg",
+    "breed": "Good cat",
+    "description": "Shy",
+    "id": 2
+  },
+  {
+    "name": "Smelly",
+    "img": "https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg",
+    "breed": "Hairless cat",
+    "description": "Smelly",
+    "id": 4
+  },
+  {
+    "id": "d70675a7e15372451251a26be12a5",
+    "name": "Franz",
+    "breed": "Mine cat",
+    "img": "/data/images/d30d51b72d0440ee45a4c9900.jpeg",
+    "description": "Mad"
+  },
+  {
+    "name": "Bonky",
+    "img": "/data/images/df00be1a5b027502fc1161000.jpeg",
+    "breed": "Good cat",
+    "id": "2019227a21e82536251e131f14a5257b",
+    "description": "Bonk"
+  }
+]
